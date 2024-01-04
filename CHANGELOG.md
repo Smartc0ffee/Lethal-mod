@@ -19,4 +19,4 @@
 
 #1.1.5 zipping file prevented it from being unpacked during install but rendered folder unreadable. still working on fix :(
   
-
+#1.1.6 troubleshooting patch
